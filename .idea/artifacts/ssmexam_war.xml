@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssmexam:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mybatis_generator.war">
+      <element id="artifact" artifact-name="ssmexam:war exploded" />
+    </root>
+  </artifact>
+</component>

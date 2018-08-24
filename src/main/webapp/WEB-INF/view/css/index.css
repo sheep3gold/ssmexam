@@ -1,0 +1,6 @@
+*{margin:0;padding:0}
+#bcontainer{
+    float: left;
+    position: relative;
+    left: -200px;
+}

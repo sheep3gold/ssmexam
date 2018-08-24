@@ -1,0 +1,9 @@
+#wrapper {
+    display:table;
+}
+
+#cell {
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+}
